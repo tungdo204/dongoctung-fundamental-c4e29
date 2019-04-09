@@ -59,6 +59,6 @@ def mouse_press(x, y, text, color, quiz_type):
         if shapes[i]['color'] == color:
             color_l = (shapes[i]['rect'])
     if quiz_type == 0:
-        is_inside(a,text_l)
+        return is_inside(a,text_l)
     elif quiz_type == 1:
-        is_inside(a,color_l)
+        return is_inside(a,color_l)
