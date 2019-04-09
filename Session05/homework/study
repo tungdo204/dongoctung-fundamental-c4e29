@@ -1,0 +1,7 @@
+1. To replicate in another program
+2. use def name(arguments)
+3. name(arguments)
+4. return is the result after all arguments have been processed by the logic inside function
+5. because result is the outcome of the function
+6. arguments are the inputs for the function to execute
+7. from file.py import function()
